@@ -67,7 +67,7 @@ else:
     # Задача номер 5
 print('Введите 6-ти значное число')
 userNumber = input()
-if (int(userNumber[0])+ int(userNumber[1]) + int(userNumber[2]) == int(userNumber[3])+ int(userNumber[4]) +
+if (int(userNumber[0]) + int(userNumber[1]) + int(userNumber[2]) == int(userNumber[3]) + int(userNumber[4]) +
         int(userNumber[5])):
     print('Счастливый билетик')
 else:
